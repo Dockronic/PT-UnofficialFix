@@ -3,7 +3,8 @@ Sorry, too lazy to make a new description or something.
 Decomp is **free-to-use**, but I would really appreciate if you credit me (Dockronic) if you use it. If there are bugs, crashes, some other stuff - please write me in my Discord Server (https://discord.gg/kJHURzRq97).
 
 # Dependencies
-- [Pizza Tower Unofficial Fix data file](https://gamebanana.com/tools/download/24401#FileInfo_1839669)
+- [Pizza Tower data file](https://store.steampowered.com/app/2231450/Pizza_Tower)
+- [Pizza Tower Unofficial Fix Patch](https://gamebanana.com/tools/download/24401#FileInfo_1839669)
 - [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/0.8.2.0)
 - [GameMaker LTS IDE Version 2022.0.1.31](https://gms.yoyogames.com/GameMaker-Installer-2022.0.1.31.exe)
 - [GameMaker Runtime Version 2022.0.1.30](https://drive.google.com/file/d/1NGlNwAVUgff5biokP7SW8mbp4lYafb6e/view?usp=sharing)
@@ -70,7 +71,7 @@ Decomp is **free-to-use**, but I would really appreciate if you credit me (Dockr
 
   2. Download [Unofficial Fix](https://gamebanana.com/tools/download/24401#FileInfo_1839669) and patch data.win file of Pizza Tower with data.xdelta file using [Deltapatcher](https://github.com/marco-calautti/DeltaPatcher).
 
-  3. Open the data.win file for Pizza Tower.
+  3. Open the data.win file of Pizza Tower.
 
   <img src=".github/Guide1.png">
 
