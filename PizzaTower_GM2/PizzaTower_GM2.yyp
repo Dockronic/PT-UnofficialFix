@@ -4027,7 +4027,6 @@
     {"id":{"name":"spr_playerN_mortjump","path":"sprites/spr_playerN_mortjump/spr_playerN_mortjump.yy",},"order":3026,},
     {"id":{"name":"spr_hillbilly_chase","path":"sprites/spr_hillbilly_chase/spr_hillbilly_chase.yy",},"order":3034,},
     {"id":{"name":"spr_medievaldoor2","path":"sprites/spr_medievaldoor2/spr_medievaldoor2.yy",},"order":13,},
-    {"id":{"name":"NoteFromMe","path":"notes/NoteFromMe/NoteFromMe.yy",},"order":9,},
     {"id":{"name":"spr_playerN_wallsplat","path":"sprites/spr_playerN_wallsplat/spr_playerN_wallsplat.yy",},"order":3036,},
     {"id":{"name":"spr_ghostbg","path":"sprites/spr_ghostbg/spr_ghostbg.yy",},"order":16,},
     {"id":{"name":"spr_player_rocket","path":"sprites/spr_player_rocket/spr_player_rocket.yy",},"order":238,},

@@ -80,6 +80,7 @@ PizzaTower_GM2/datafiles/*
 !PizzaTower_GM2/sprites/spr_city1props/**
 !PizzaTower_GM2/sprites/spr_citycarnival/**
 !PizzaTower_GM2/sprites/spr_citydarkprops/**
+!PizzaTower_GM2/sprites/spr_citydarkprops_1/**
 !PizzaTower_GM2/sprites/spr_tile_collision/**
 !PizzaTower_GM2/sprites/spr_desertdeco/**
 !PizzaTower_GM2/sprites/spr_tile_desertsecret/**
@@ -100,6 +101,7 @@ PizzaTower_GM2/datafiles/*
 !PizzaTower_GM2/sprites/spr_tile_graveyarddeco/**
 !PizzaTower_GM2/sprites/spr_graveyardmine/**
 !PizzaTower_GM2/sprites/spr_tile_industrialcomplex/**
+!PizzaTower_GM2/sprites/spr_interiortile/**
 !PizzaTower_GM2/sprites/spr_interiortile2/**
 !PizzaTower_GM2/sprites/bg_jailroom1/**
 !PizzaTower_GM2/sprites/tile_keysign/**
