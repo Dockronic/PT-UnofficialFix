@@ -1,16 +1,16 @@
 # Ignore all PNG files in sprites and subfolders
-sprites/**/*.png
+PizzaTower_GM2/sprites/**/*.png
 
 # Do not ignore .yy files anywhere under sprites
-!sprites/**/*.yy
+!PizzaTower_GM2/sprites/**/*.yy
 
 # datafiles
-datafiles/*
+PizzaTower_GM2/datafiles/*
 
 # unignore all tileset sprites
-!sprites/bg_grindrail/**
-!sprites/bg_title/**
-!prites/bg_trapscreen/**
+!PizzaTower_GM2/sprites/bg_grindrail/**
+!PizzaTower_GM2/sprites/bg_title/**
+!PizzaTower_GM2/sprites/bg_trapscreen/**
 !PizzaTower_GM2/sprites/spr_spaceprops/**
 !PizzaTower_GM2/sprites/tile_factory3/**
 !PizzaTower_GM2/sprites/spr_tileset_beachprops1/**
